@@ -2,7 +2,7 @@
 set -eu
 
 GKI_ROOT=$(pwd)
-OWNER="manipvlator"
+OWNER="tryhardkip"
 REPO="KernelSU-Next"
 
 display_usage() {

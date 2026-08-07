@@ -14,7 +14,7 @@ This project uses an enhanced integration method based on
 Run this inside your kernel source:
 
 ```sh
-curl -LSs "https://raw.githubusercontent.com/manipvlator/KernelSU-Next/stable/kernel/setup.sh" | bash -s syscall
+curl -LSs "https://raw.githubusercontent.com/tryhardkip/KernelSU-Next/stable/kernel/setup.sh" | bash -s syscall
 ```
 
 This will automatically integrate KernelSU using the syscall method.
